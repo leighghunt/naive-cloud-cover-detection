@@ -27,8 +27,8 @@ File: Data/91.png. Cloud Cover: 95%
 ![Data/66.png](Data/66.png) Planet: 66% My code: 73%
 ![Data/15.png](Data/15.png) Planet: 15% My code: 27%
 ![Data/17.png](Data/17.png) Planet: 17% My code: 38%
-![Data/1_but_over_water.png](Data/1_but_over_water.png) Planet: 1% My coder: 0%
-![Data/13_planet_but_whispy_I_would_say_80.png](Data/13_planet_but_whispy_I_would_say_80.png) Planet: 13% (but I would say 80%) My code: 94%
+![Data/1_but_over_water.png](Data/1_but_over_water.png) Planet: 1% My code: 0%
+![Data/13_planet_but_whispy_I_would_say_80.png](Data/13_planet_but_whispy_I_would_say_80.png) Planet: 13% ( I'd say 80%) My code: 94%
 ![Data/19_hazy.png](Data/19_hazy.png) Planet: 19% but hazy My code: 65%
 ![Data/81.png](Data/81.png) Planet: 81% My code: 63%
 ![Data/41.png](Data/41.png) Planet: 41% My code: 45%
