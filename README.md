@@ -1,0 +1,1 @@
+# naive-cloud-cover-detection
